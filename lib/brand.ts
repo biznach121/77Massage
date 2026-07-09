@@ -212,9 +212,9 @@ export const brand: Brand = {
     // Generic spa hero clip — deliberately business-neutral so every
     // reskinned demo can ship with it as-is.
     videoUrl:
-      "https://res.cloudinary.com/dcc5ggnkc/video/upload/v1783439648/nvddib3nh4vkymjdhpwh.mp4",
+      "https://res.cloudinary.com/dzykdnbvb/video/upload/v1783559402/ssstik.io__77massage_treat_1783558907737_i87epq.mp4",
     videoUrls: [
-      "https://res.cloudinary.com/dcc5ggnkc/video/upload/v1783439648/nvddib3nh4vkymjdhpwh.mp4",
+      "https://res.cloudinary.com/dzykdnbvb/video/upload/v1783559402/ssstik.io__77massage_treat_1783558907737_i87epq.mp4",
     ],
   },
 
@@ -427,12 +427,12 @@ export const brand: Brand = {
         position: "center",
       },
       {
-        src: "https://res.cloudinary.com/dcc5ggnkc/video/upload/v1780581429/hptukehgmrufp33qyd5e.mp4",
+        src: "https://res.cloudinary.com/dzykdnbvb/video/upload/v1783559402/ssstik.io__77massage_treat_1783558907737_i87epq.mp4",
         alt: "77 Massage Treat salon media video",
         position: "center",
       },
       {
-        src: "https://res.cloudinary.com/dcc5ggnkc/video/upload/v1780581430/gse4jxivlcejlrtq3fjk.mp4",
+        src: "https://res.cloudinary.com/dzykdnbvb/video/upload/v1783559402/ssstik.io__77massage_treat_1783558679225_txfp1q.mp4",
         alt: "77 Massage Treat self-care media video",
         position: "center",
       },
